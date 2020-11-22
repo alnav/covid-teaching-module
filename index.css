@@ -1,18 +1,16 @@
 .top-banner {
-    margin: 20px 500px;
+  margin: 20px auto;
 }
-
-.middle {
-    margin: 20px 500px;
-}
-
 img {
-    margin: 20px 500px;
+  display: block;
+  margin: 20px auto;
 }
-
+.row {
+  margin: 20px auto;
+}
 a {
-    color: white;
+  color: white;
 }
 a:hover {
-    color: white;
+  color: white;
 }
